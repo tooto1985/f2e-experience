@@ -1,18 +1,18 @@
 ﻿[
     [
-        "http://lorempixel.com/800/600/technics/",
+        "images/1.jpg",
         "http://www.flycan.com.tw/course/course-Front-End-Engineer.php"
     ],
     [
-        "http://lorempixel.com/800/600/animals/",
+        "images/2.jpg",
         "http://www.flycan.com.tw/course/course-git-github.php"
     ],
     [
-        "http://lorempixel.com/800/600/food/",
+        "images/3.jpg",
         "http://www.flycan.com.tw/course/course-NodeJS.php"
     ],
     [
-        "http://lorempixel.com/800/600/nature/",
+        "images/4.jpg",
         "http://www.flycan.com.tw/course/course-javascript-adv.php"
     ]
 ]

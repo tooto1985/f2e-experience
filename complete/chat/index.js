@@ -1,5 +1,5 @@
 ﻿$(function() {
-    var socket = io("http://192.168.0.103");
+    var socket = io();
     function sendMessage(name, message) {
         if(name && message) {
             var data = name + "說：" + message;
